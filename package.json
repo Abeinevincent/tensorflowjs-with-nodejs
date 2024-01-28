@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_with_tensorflowjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "textdata.js",
+  "scripts": {
+    "start": "node src/textdata.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.16.0",
+    "@tensorflow/tfjs-node": "^4.16.0"
+  }
+}
